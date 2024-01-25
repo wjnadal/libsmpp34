@@ -152,6 +152,8 @@
 #define NPI_ERMES               10
 #define NPI_Internet_IP         14
 #define NPI_WAP_Client_Id       18
+//no stardard npi
+#define NPI_5                   5
 
 
 /* Flag which will identify whether destination address is a DL or SME Addr ***/
